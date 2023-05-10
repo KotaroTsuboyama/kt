@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://sites.google.com/view/tsubo-lab/:splat"
+  status = 301
+  force = true
